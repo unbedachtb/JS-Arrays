@@ -1,5 +1,5 @@
 //Once you complete a problem, open up Chrome and check the answer in the console.
-
+I did this one
 
 var arr = [10,20,30];
 //Create a function named 'first' that is given 'arr' as the argument and  returns the first item in the given array.
